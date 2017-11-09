@@ -1,6 +1,6 @@
-# Image_Encryption_using_Sbox_and_Galois_Field
+# Image Encryption using S-box and Galois Field
 Our 7th Semester Project
 
-#The Team
+# The Team
 - ZMF
 - AMS
