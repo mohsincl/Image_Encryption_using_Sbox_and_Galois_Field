@@ -1,8 +1,7 @@
 # Resources
+(Relevant Resources + Links)
 
-Relevant Resources + Links
-
-Following Links were provided by Musheer Sir: </br></br>
+Following Links were provided by Musheer Sir: </br>
 http://faculty.washington.edu/manisoma/ee540/EE540finite.pdf </br>
 http://crypto.stackexchange.com/questions/2700/galois-fields-in-cryptography </br>
 https://en.wikipedia.org/wiki/Finite_field_arithmetic</br>
