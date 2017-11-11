@@ -13,10 +13,20 @@ https://www.doc.ic.ac.uk/~mrh/330tutor/ </br>
 </br>
 
 - <b>From AMS Side:</b> </br>
-Concept and Working: https://www.youtube.com/watch?v=skMih0DLR3g </br>
-Algorithm: https://www.princeton.edu/~rblee/serpent/tsld006.htm </br> 
+S-box Concept and Working: https://www.youtube.com/watch?v=skMih0DLR3g </br>
+Polynomial Multiplication: https://en.wikipedia.org/wiki/Finite_field_arithmetic#Multiplication </br>
+Rijndael's Galois Field (Explained with example): http://www.samiam.org/galois.html </br>
+S-box using a different generator: https://books.google.co.in/books?id=-645Gg-C2AsC&pg=PA141&lpg=PA141&dq=1+2+4+8+16+32+64+128+113+226+181+27+54+108+216&source=bl&ots=inrsTrPNrR&sig=9HjIU1V1q5AEZFLpDpfPTkTzz6Q&hl=en&sa=X&ved=0ahUKEwim7ZjHhbfXAhUNTo8KHZEZBxgQ6AEILzAD#v=onepage&q&f=false </br>
+Arnold Transform Concepts: https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjL4MrkzLfXAhUIM48KHQ89Bp8QFggvMAI&url=http%3A%2F%2Fwww.atlantis-press.com%2Fphp%2Fdownload_paper.php%3Fid%3D10512&usg=AOvVaw1wtjrOfoNv1P5cgFaKTlbN </br>
+Inverse and Direct Arnold Transform MATLAB Code: https://in.mathworks.com/matlabcentral/fileexchange/35144-inverse-and-direct-arnold-transform </br>
+Another Code: https://in.mathworks.com/matlabcentral/fileexchange/34983-arnold-transform-and-inverse-for-image-scrambling </br>
+Arnold Transform Python package: https://pypi.python.org/pypi/arnold/0.4.1 </br>
+Pillow (Image library): https://pillow.readthedocs.io/en/latest/handbook/tutorial.html </br>
+
 - Miscellaneous(Optional):</br>
-Comparative Study of Random S-box Generation Methods: </br>http://elib.mi.sanu.ac.rs/files/journals/publ/113/n107p109.pdf </br>
-Sbox Generation Part from: </br>http://www.imedpub.com/articles/generation-of-dynamic-sbox-using-irreduceable-polynomial-and-the-secret-key-used.pdf </br>
+Galois Field python library: https://github.com/Glank/Galois </br>
+x Algorithm for Generating 8 S-boxes: https://www.princeton.edu/~rblee/serpent/tsld006.htm </br>
+x Comparative Study of Random S-box Generation Methods: </br>http://elib.mi.sanu.ac.rs/files/journals/publ/113/n107p109.pdf </br>
+x Sbox Generation Part from: </br>http://www.imedpub.com/articles/generation-of-dynamic-sbox-using-irreduceable-polynomial-and-the-secret-key-used.pdf </br>
 Analysis Part from: </br>www.cs.haifa.ac.il/~orrd/LC17/paper60.pdf </br>
-(will add more info Later)
+
