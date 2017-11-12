@@ -1,6 +1,5 @@
-# Image Encryption Using Algebraic S-box and Galois Field
-
-# STEP 1/3: Generation of 8x8 S-box (and correspondingly, invertible S-box)
+# Generation of 8x8 S-box (and correspondingly, invertible S-box)
+# Developed by AMS(c)
 
 # Variable Initializations
 a=1		# Initial condition
@@ -85,10 +84,4 @@ print('\n'.join([''.join(['{:4}'.format(i) for i in j]) for j in sbox]))
 print '\nTABLE-3: INVERTIBLE S-BOX:'								
 print('\n'.join([''.join(['{:4}'.format(i) for i in j]) for j in invert_sbox]))
 
-# END STEP-1/3
-
-
-# STEP 2/3: Using Image Encryption Scheme
-# 1. Partial Encryption of a 512x512 image using S-box
-# 2. Full Encryption by perform 10 iterations using Arnold Transform 
-
+# S-Box Generation Complete :)
