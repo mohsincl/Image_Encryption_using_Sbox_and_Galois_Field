@@ -22,6 +22,8 @@ Inverse and Direct Arnold Transform MATLAB Code: https://in.mathworks.com/matlab
 Another Code: https://in.mathworks.com/matlabcentral/fileexchange/34983-arnold-transform-and-inverse-for-image-scrambling </br>
 Arnold Transform Python package: https://pypi.python.org/pypi/arnold/0.4.1 </br>
 Pillow (Image library): https://pillow.readthedocs.io/en/latest/handbook/tutorial.html </br>
+Arnold Transform Procedure and Analysis: https://www.ijarcce.com/upload/2015/september-15/IJARCCE%20108.pdf </br>
+Sub-image breakdown Analysis: http://iasir.net/AIJRSTEMpapers/AIJRSTEM15-205.pdf </br>
 
 - Miscellaneous(Optional):</br>
 Galois Field python library: https://github.com/Glank/Galois </br>
